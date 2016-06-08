@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:24.012579
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽佛經疏
 #+PROPERTY: CBETA_ID T37n1750
 #+PROPERTY: ID KR6f0073
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1750
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0073_T_000-0186b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0073_T_001-0186b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1750[cf.Nos.365,1751]¶
-
- 佛說觀無量壽佛經疏(并序)¶
+No. 1750 [cf. Nos. 365, 1751]¶
+佛說觀無量壽佛經疏(并序)¶
 ¶
 天台智者大師說¶
 
